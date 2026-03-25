@@ -9,9 +9,7 @@ You can see the live working demo at `https://sensors.eksabajt.pl`
 ## SHOWCASE
 Below we'll attach some images to show the sensors in action.
 <p align="center">
-  <img src="./screenshots/screenshot-1.webp" width="700" />
-  <img src="./screenshots/screenshot-2.webp" width="700" />
-  <img src="./images/image-2.webp" width="700" />
+  <img src="./screenshots/screenshots.gif" width="700" />
   <img src="./images/image-3.webp" width="700" />
 </p>
 
