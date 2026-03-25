@@ -37,8 +37,14 @@ Common problems with this setup include
 - the hat not working correctly - try working with the wiki one more time, beware of jumper position and software setup
 - the dashboard not working - ensure your server pi has internet connection and the port isn't occupied by other service. 
 
+## Development / contributing
+If you really have the need to go swamp diving - that is reading that codebase - no problem, I'll happily accept your contributions. This code can be run without the access to raspberry pi lora or even arduino, so that you can work on web server even without any hardware -> just run `npm run dev` on the frontend and `python server.py` and make some meaningful changes, then create a pull request. If you have stumbled upon a typo or want to improve something in the docs you can also do so. 
+
+thank you for taking time to read this whole readme. 
+
 GLHF 
 
 ## AUTHORS:
 Robert Pławski, robertplawski.pl
 Maciej Potrz, mpotrz.pl
+Evora, PT, 2026
