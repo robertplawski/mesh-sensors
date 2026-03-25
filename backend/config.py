@@ -1,0 +1,8 @@
+NAME = "server"
+MODE = "server"
+LAT, LON = 38.565558, -7.917683
+RECEIVE_DELAY = 2
+PASSWORD = "aeseverim"
+SEND_DELAY = 3
+NODE_ID = 0
+AIR_TIME = 0.7
