@@ -31,3 +31,7 @@ Common problems with this setup include
 - the dashboard not working - ensure your server pi has internet connection and the port isn't occupied by other service. 
 
 GLHF 
+
+## AUTHORS:
+Robert Pławski, robertplawski.pl
+Maciej Potrz, mpotrz.pl
