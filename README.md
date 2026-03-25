@@ -8,6 +8,12 @@ You can see the live working demo at `https://sensors.eksabajt.pl`
 
 ## SHOWCASE
 Below we'll attach some images to show the sensors in action.
+<p align="center">
+  <img src="./screenshots/screenshot-1.webp" width="700" />
+  <img src="./screenshots/screenshot-2.webp" width="700" />
+  <img src="./images/image-2.webp" width="700" />
+  <img src="./images/image-3.webp" width="700" />
+</p>
 
 ## Beware
 This is our first 3d printing + rpi + arduino project made in 2 weeks, please do not expect any quality nor reliability. (we tried, ok?). The code wasn't tested with more than one client and may require modification in order to do so.
@@ -19,6 +25,9 @@ It would be advised to have pliers ready for 3d print supports and whatnot. Also
 
 ## Case...
 We're using a case from [I-box-it](https://makerworld.com/en/models/1111693-raspberry-pi-4-case-wall-mount-options#profileId-1108376), you should download it from there and print the accurate version (with gpio clearance) for the server raspberry pi. For the client raspberry pi we've included stls with a mount for a powerbank. Also included a mkr iot board mount for the powerbank. 
+
+> tip : if you have no idea what do i mean in here just plop it into an LLM like chatgpt and it will spit out the commands 
+
 
 ## Getting started
 Connect the LoRa HAT to raspberry pi as per [manual](https://www.waveshare.com/wiki/SX1262_868M_LoRa_HAT), do not forget to enable it on raspberry pi.
